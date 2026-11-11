@@ -1,0 +1,10 @@
+node_modules/
+dist/
+data/
+verify/
+.auth/
+.tmp/
+.screenshots/
+progress.json
+*.log
+.env
