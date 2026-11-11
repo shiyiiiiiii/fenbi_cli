@@ -8,3 +8,4 @@ verify/
 progress.json
 *.log
 .env
+.idea/
